@@ -2,9 +2,6 @@
 
 ### Im a Software Engineer and a business owner in Dubai
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghayyashadla&label=Profile views&color=0e75b6&style=flat" alt="ghayyashadla" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghayyashadla" alt="ghayyashadla" /></a> </p>
 
 - 🔭 I'm currently working on **An Authentication Project for one of the Globes biggest company in the world!**
 
