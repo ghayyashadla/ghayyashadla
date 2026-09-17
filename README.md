@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, vue, CMS Platforms, ITSM, ESM, SAM**
 
-- 📫 How to reach me **ghayyas.h@dubazon.com**
+- 📫 How to reach me **ghayyas@codecando.com**
 
 - ⚡ Fun fact **I keep thinking about the 1M dollars project ... 82+ projects so far, i dont see it 🤣**
 
